@@ -1,0 +1,136 @@
+﻿all-repository-fonts ->
+alsa-utils
+arandr
+aura-bin ->
+brasero
+cheese
+chromium (?)
+clang
+cmake
+compton
+conky
+cowsay
+cuneiform
+cups
+dex
+dmenu
+dunst
+elinks
+emacs
+emscripten
+evince
+evince-synctex ->
+expect (autoexpect)
+fcitx-configtool
+fcitx-googlepinyin
+fcitx-im
+feh
+firefox
+fish
+freerdp
+ghc (haskell)
+git
+gksu
+glabels
+gnome-alsamixer
+gnome-control-center
+gnome-keyring
+gnome-themes-standard
+gocr
+gpicview
+gscan2pdf ->
+gst-libav
+gst-plugins-bad
+gst-plugins-base
+gst-plugins-good
+gst-plugins-ugly
+gutenprint
+gvfs
+gvim (?)
+htop
+imagemagick
+inkscape
+jdk ->
+kdeaccessibility
+launchy
+libreoffice
+librsvg
+libtinfo ->
+llpp ->
+llvm
+luakit
+lxappearance
+lxsession
+lxtask
+mate-power-manager
+mc
+mpc
+mpd
+mplayer
+mupdf
+neovim
+nodejs
+npm
+nzbget
+nzbhydra-git ->
+openssh
+pa-applet-git ->
+parcellite
+pcmanfm
+perl-gtk2-ex-podviewer ->
+playerctl ->
+pokerth
+pstoedit
+pulseaudio
+putty (?)
+python-gobject
+python-pexpect
+python-xdg
+python2-lxml
+r
+redshift
+remmina (?)
+rstudio-desktop-bin ->
+sakura
+sane
+screenfetch
+scrot
+sshtunnel-git ->
+stack (haskell)
+stow
+sublime-text-nightly ->
+synergy
+task
+terminator
+termite
+tesseract
+texlive
+texworks ->
+the_silver_searcher
+thunar
+thunderbird
+tk
+tmux
+udiskie
+udisks
+unrar
+vassal ->
+vim-plug ->
+virtualbox
+vlc
+wmname
+workrave
+xarchiver
+xautolock
+xclip
+xcompmgr
+xcwd-git ->
+xdg-utils
+xf86-input-synaptics
+xfce4-appfinder
+xfce4-screenshooter
+xorg-xbacklight
+xsane
+xscreensaver
+yaourt
+zerobrane-studio (lua) ->
