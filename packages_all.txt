@@ -15,11 +15,8 @@ cups
 dex
 dmenu
 dunst
-elinks
 emacs
 emscripten
-evince
-evince-synctex ->
 expect (autoexpect)
 fcitx-configtool
 fcitx-googlepinyin
@@ -46,7 +43,7 @@ gst-plugins-good
 gst-plugins-ugly
 gutenprint
 gvfs
-gvim (?)
+vim
 htop
 imagemagick
 inkscape
@@ -82,20 +79,17 @@ playerctl ->
 pokerth
 pstoedit
 pulseaudio
-putty (?)
 python-gobject
 python-pexpect
 python-xdg
 python2-lxml
 r
 redshift
-remmina (?)
 rstudio-desktop-bin ->
 sakura
 sane
 screenfetch
 scrot
-sshtunnel-git ->
 stack (haskell)
 stow
 sublime-text-nightly ->
@@ -107,7 +101,6 @@ tesseract
 texlive
 texworks ->
 the_silver_searcher
-thunar
 thunderbird
 tk
 tmux
