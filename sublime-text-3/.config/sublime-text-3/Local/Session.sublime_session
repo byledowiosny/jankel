@@ -1,0 +1,247 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3111,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/cymer/floobits/msgs.floobits.log",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/cymer/w_lisp/practicals-1.0.3/README.txt",
+				"/home/cymer/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/cymer/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/cymer/.tmux.conf",
+				"/home/cymer/.config/chromium/Default/Bookmarks",
+				"/home/cymer/Public/jankiel/LICENSE",
+				"/home/cymer/jankiel/nvim/.config/nvim/plugins.vim",
+				"/home/cymer/ldap_admin",
+				"/home/cymer/w_shell/HowToInstallVNCServerOnUbuntu14.04",
+				"/home/cymer/jankiel/packages_all.txt",
+				"/home/cymer/HowToInstallVNCServerOnUbuntu14.04",
+				"/home/cymer/.pentadactylrc",
+				"/home/cymer/jankiel/pentadactylrc.vim",
+				"/home/cymer/jankiel/pentadactylrc3",
+				"/home/cymer/humanplayer_extra/human_player/NAMESPACE",
+				"/home/cymer/humanplayer_extra/human_player/HumanPlayer.Rproj",
+				"/home/cymer/.config/termite/config",
+				"/home/cymer/.config/sakura/sakura.conf",
+				"/home/cymer/olidots/Makefile",
+				"/home/cymer/pfe-0.33.71/README",
+				"/home/cymer/.config/nvim/plugged/vim-gforth/gforth.vim",
+				"/home/cymer/w_forth/ForthFreak/44",
+				"/home/cymer/w_forth/4th-3.62.3/documentation/4tHmanual.ps"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/cymer/floobits/msgs.floobits.log",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,960,16,1920,1080,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

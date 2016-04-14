@@ -263,7 +263,7 @@ end
 
 --{{
 local tools = {
-    terminal = "termite",
+    terminal = "sakura",
     system = {
         filemanager = "pcmanfm",
         taskmanager = "lxtask",
@@ -274,15 +274,15 @@ local tools = {
     },
 }
 
-tools.browser.primary = os.getenv("BROWSER") or "firefox"
-tools.browser.secondary = ({luakit="firefox", firefox="luakit"})[tools.browser.primary]
+tools.browser.primary = os.getenv("BROWSER") or "luakit"
+tools.browser.secondary = ({palemoon="luakit", luakit="palemoon"})[tools.browser.primary]
 
 -- alternative: override
 --tools.browser.primary = "google-chrome-stable"
 --tools.browser.secondary = "firefox"
 
-tools.editor.primary = os.getenv("EDITOR") or "subl3"
-tools.editor.secondary = ({emacs="subl3", subl3="emacs"})[tools.editor.primary]
+tools.editor.primary = os.getenv("EDITOR") or "nvim"
+tools.editor.secondary = ({nvim="emacs", emacs="nvim"})[tools.editor.primary]
 
 -- alternative: override
 --tools.editor.primary = "gvim"
@@ -2186,11 +2186,11 @@ uniarg:key_repeat({ modkey,  }, "E", function ()
 end),
 
 uniarg:key_repeat({ modkey, "Mod1", }, "p", function ()
-    awful.util.spawn("putty")
+    awful.util.spawn("llpp")
 end),
 
 uniarg:key_repeat({ modkey, "Mod1", }, "r", function ()
-    awful.util.spawn("remmina")
+    awful.util.spawn("thunderbird")
 end),
 
 uniarg:key_repeat({ modkey, }, "i", function ()
@@ -2636,7 +2636,7 @@ awful.rules.rules = {
     },
 
     { 
-        rule = { class = "MPlayer" },
+        rule = { class = "vlc" },
         properties = { 
             floating = true,
             opacity = 1,
@@ -2644,7 +2644,7 @@ awful.rules.rules = {
     },
 
     { 
-        rule = { class = "gimp" },
+        rule = { class = "inkscape" },
         properties = { 
             floating = true, 
         }, 
