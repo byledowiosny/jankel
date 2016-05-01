@@ -8,6 +8,7 @@ function! BuildYCM(info)
   endif
 endfunction
 
+Plug 'byledowiosny/vim-gforth'
 Plug 'Keithbsmiley/tmux.vim'
 Plug 'Lokaltog/vim-distinguished'
 Plug 'Lokaltog/vim-easymotion'

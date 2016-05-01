@@ -3,11 +3,9 @@ alsa-utils
 antiword
 arandr
 aura-bin ->
-aura-pentadactyl-git ->
 brasero
 cheese
 chromium
-chromium-vim (ChromWebStore)
 clang
 cmake
 compton
@@ -25,6 +23,7 @@ fcitx-configtool
 fcitx-googlepinyin
 fcitx-im
 feh
+firefox
 fish
 freerdp (?)
 gforth ->
@@ -45,11 +44,7 @@ gst-plugins-good
 gst-plugins-ugly
 gutenprint
 gvfs
-gvim (?)
-hevea (html2latex)
 htop
-iceweasel
-iceweasel-extension-archsearch
 imagemagick
 inkscape
 java-environment
@@ -63,25 +58,23 @@ libreoffice-extension-writer2latex
 librsvg
 libtinfo ->
 llpp ->
-llvm (?)
-luakit
 lxappearance
 lxsession
 lxtask
+lynx
 mate-power-manager
 mpc
 mpd
 neovim
 nodejs
+notify-osd
 npm
 nzbget
 nzbhydra-git -> (?)
 openssh
 pa-applet-git -> (?)
-palemoon
 parcellite
 pcmanfm
-pentadactyl (PalemoonStore)
 perl-gtk2-ex-podviewer -> (?)
 playerctl -> (?)
 pokerth
@@ -93,9 +86,13 @@ python-gobject
 python-xdg
 python2-lxml
 r
+rclone
 redshift
+roswell
 sakura
 sane
+scons
+screen
 screenfetch
 scrot
 slrn
@@ -105,7 +102,7 @@ stow
 sublime-text-nightly ->
 synergy
 task
-termite
+terminator
 tesseract
 tesseract-data-eng
 tesseract-data-fra
@@ -134,7 +131,6 @@ unoconv
 unrar
 vassal -> (?)
 vim-plug ->
-virtualbox (?)
 vlc
 wmname
 workrave
@@ -147,6 +143,7 @@ xdg-utils
 xf86-input-synaptics
 xfce4-appfinder
 xfce4-screenshooter
+xfce4-volumed
 xorg-xbacklight
 xsane
 xscreensaver
